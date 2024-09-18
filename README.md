@@ -1,6 +1,6 @@
 I am not an active OSS committer.
 
-## PRs
+## Contributions
 
 - https://github.com/cookiecutter/cookiecutter/pull/1795
 - https://github.com/aws-ia/terraform-aws-eks-blueprints-addons/pull/347
