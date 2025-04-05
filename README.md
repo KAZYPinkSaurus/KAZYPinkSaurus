@@ -7,5 +7,6 @@ I am not an active OSS committer.
 - https://github.com/knative/docs/pull/5884
 - https://github.com/knative/serving/pull/14969
 - https://github.com/external-secrets/external-secrets/pull/3898
+- https://github.com/grafana/k6-docs/pull/1685
 
  
